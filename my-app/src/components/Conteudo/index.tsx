@@ -5,7 +5,7 @@ export default function Conteudo() {
         <main>
             <section>
                 <h2>Conteúdo Principal</h2>
-                
+                                
                 {/* Exemplos de imagens externas, internas e do projeto */}
                 <figure>
                     <img src="https://placehold.co/600x400/0000FF/FF0000/png" alt="Figura Ilustrativa Externa" />
