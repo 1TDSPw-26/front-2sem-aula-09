@@ -7,13 +7,9 @@ export default function Conteudo(){
                 <h2>Conteudo</h2>
 
                 <figure>
-                    <img src="" 
-                    alt="Figure de Demonstração"  />
-                </figure>
-
-                <figure>
                     <img src={imgQuadrado} 
                     alt="Imagem Externa"/>
+                    <figcaption>Imagem Demonstração</figcaption>
                 </figure>
 
                 <figure>
@@ -22,7 +18,7 @@ export default function Conteudo(){
                 </figure>
 
                 <figure>
-                    <img src="/image/quadrado-b" />
+                    <img src="public\image\quadrado-b.png" />
                     <figcaption>Imagem Estática</figcaption>
                 </figure>
 
