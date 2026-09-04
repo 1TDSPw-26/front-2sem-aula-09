@@ -15,7 +15,7 @@ export default function Conteudo() {
                     <img src={imgQuadrado} alt="Figura de demonstração" />
                     <figcaption>Imagem Interna</figcaption>
                 </figure>
-                    <img src="/quadrado-b.png" alt="Figura de demonstração" />
+                    <img src="/image/quadrado-b.png" alt="Figura de demonstração" />
                     <figcaption>Imagem Estática</figcaption>
                 <figure>
 
