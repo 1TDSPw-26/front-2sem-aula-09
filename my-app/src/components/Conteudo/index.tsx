@@ -36,6 +36,8 @@ export default function Conteudo() {
 
           <figcaption>Imagem estática</figcaption>
         </figure>
+
+
       </section>
     </main>
   );
