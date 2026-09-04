@@ -8,7 +8,7 @@ export default function Conteudo() {
                                 
                 {/* Exemplos de imagens externas, internas e do projeto */}
                 <figure>
-                    <img src="https://placehold.co/600x400/0000FF/FF0000/png" alt="Figura Ilustrativa Externa" />
+                    <img src="https://placehold.co/300x200/0000FF/FF0000/png" alt="Figura Ilustrativa Externa" />
                     <figcaption>Imagem Externa</figcaption>
                 </figure>
 
